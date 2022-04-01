@@ -1,0 +1,11 @@
+[package]
+name = "cargo-axum"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "快速创建 axum 脚手架的工具"
+authors = ["axum.rs <team@axum.rs>"]
+repository = "https://github.com/aceaxum/cargo-axum.git"
+homepage = "https://axum.rs"
+
+[dependencies]
