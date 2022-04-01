@@ -2,6 +2,12 @@
 
 快速创建 axum 脚手架
 
+## 安装
+
+```bash
+cargo install cargo-axum
+```
+
 ## 使用
 
 ```bash
